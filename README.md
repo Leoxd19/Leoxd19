@@ -4,4 +4,4 @@ Hello, I'm Leo. I'm a computer science student at Uppsala University, where I am
 
 In addition to my passion for technology, I am also deeply interested in science 🔬 and believe in the importance of skepticism and inquiry 🤔. I believe that by challenging assumptions and remaining open to new ideas, we can make meaningful progress and find solutions to some of the most pressing problems of our time.
 
-If you're interested in seeing some of my work, feel free to check out my projects on my website, https://leoxd19.github.io 🔍💻!
+If you're interested in seeing some of my work, feel free to check out my projects on my website, https://leoxd19.github.io 🔍💻
