@@ -1,4 +1,4 @@
-Welcome to My Github Profile! 🌐
+Welcome to My Github Profile! 🛰️
 
 Hello, I'm Leo. I'm a computer science student at Uppsala University, where I am constantly striving to sharpen my abilities and expand my knowledge in the field. I am particularly fascinated by the way technology can be utilized to understand and enhance the world around us. I am actively engaged in learning and experimenting with various programming languages such as Python, HTML, CSS, and JS.
 
