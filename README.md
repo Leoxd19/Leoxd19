@@ -1,5 +1,3 @@
-🌊 Welcome to my Github profile! I'm Leo, a computer science student at Uppsala University.
-
-🐺 Currently exploring the ODIN project, I'm always seeking to expand my knowledge and skills in the field.
+🌊 Welcome to my Github profile! I'm Leo, a computer science student.
 
 🔍💻 If you're curious about my work, you can find examples of my projects on my website: [https://leoxd19.github.io]. 
