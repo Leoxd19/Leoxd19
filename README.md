@@ -1,3 +1,3 @@
- Welcome to my Github profile! I'm Leo.
+ Welcome to my profile! I'm Leo.
 
 🌊👟👨🏻‍💻🕵🏽‍♂🐼
